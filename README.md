@@ -20,7 +20,7 @@ Dependencies
 
 ### Plasma PKG ###
 
-Start the "**run**" file into widget directory.
+Start the "**run**" file into widget directory.  
 Widget will be installed into your home directory.
 
 License
@@ -30,7 +30,7 @@ License
 
 GNU GENERAL PUBLIC LICENSE Version 3
 
-Copyright 2018 Yuriy Ost
+Copyright 2018 Yuriy Ost  
 Copyright 2014-2016 Symeon Huang - [Yahoo! Weather Widget](https://github.com/librehat/com.librehat.yahooweather)
 
 For details, please check `LICENSE` file.
