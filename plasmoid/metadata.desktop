@@ -29,6 +29,6 @@ X-KDE-PluginInfo-Email=qcounter@yandex.ru
 X-KDE-PluginInfo-Name=com.github.yuriyost.yahooweather
 X-KDE-PluginInfo-License=GPLv3
 X-KDE-PluginInfo-Category=Environment and Weather
-X-KDE-PluginInfo-Version=5.2.0
+X-KDE-PluginInfo-Version=1.0.0
 X-Plasma-API=declarativeappletscript
 X-Plasma-MainScript=ui/main.qml
