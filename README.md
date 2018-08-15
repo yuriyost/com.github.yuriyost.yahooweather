@@ -20,7 +20,7 @@ Dependencies
 
 ### Plasma PKG ###
 
-Start the "**run**" file into widget directory.  
+Start the **`run`** file into widget directory.  
 Widget will be installed into your home directory.
 
 License
