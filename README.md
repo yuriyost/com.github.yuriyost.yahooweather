@@ -3,7 +3,7 @@ Yahoo! Alternative Weather Widget
 
 This weather widget based on [Yahoo! Weather Widget](https://github.com/librehat/com.librehat.yahooweather) by Symeon Huang.
 
-This widget has a similar skin as Yawp widget.
+This resizable widget has a similar skin as Yawp widget.
 
 This weather widget that makes use of beloved Yahoo! Weather data. 
 Written in pure QML.
@@ -18,10 +18,11 @@ Dependencies
 
 =====
 
-### Plasma PKG ###
+### How Install ###
 
-Start the **`run`** file into widget directory.  
-Widget will be installed into your home directory.
+For the install this plasma pkg start the **`run`** file into widget directory.  
+Widget will be installed into your home directory.  
+Use **`reinstall`** file if you want reinstall widget.
 
 License
 =====
