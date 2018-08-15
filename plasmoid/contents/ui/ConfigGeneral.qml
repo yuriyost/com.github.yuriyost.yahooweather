@@ -32,7 +32,7 @@ Item {
             }
         }
         Label {
-            text: i18n("Visit <a href=\"http://zourbuth.com/tools/woeid/\">Yahoo! WOEID Lookup</a> to find your city's WOEID") 
+            text: i18n("Visit <a href=\"http://woeid.rosselliot.co.nz/\">Yahoo! WOEID Lookup</a> to find your city's WOEID") 
             onLinkActivated: Qt.openUrlExternally(link)
         }
 
