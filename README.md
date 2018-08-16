@@ -1,9 +1,10 @@
-Yahoo! Alternative Weather Widget
+Yahoo! Weather Alternative Widget Skin 
 ====
 
-This weather widget based on [Yahoo! Weather Widget](https://github.com/librehat/com.librehat.yahooweather) by Symeon Huang.
+This widget has resizable texts and weather icons.  
+The design of this widget is similar to Yawp widget.  
 
-This resizable widget has a similar skin as Yawp widget.
+This weather widget based on [Yahoo! Weather Widget](https://github.com/librehat/com.librehat.yahooweather) by Symeon Huang.
 
 This weather widget that makes use of beloved Yahoo! Weather data. 
 Written in pure QML.
