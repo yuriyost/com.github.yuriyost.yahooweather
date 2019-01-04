@@ -1,6 +1,11 @@
 Yahoo! Weather Alternative Widget Skin 
 ====
 
+** WARNING **
+As of Thursday, Jan. 3, 2019, the weather.yahooapis.com and query.yahooapis.com for Yahoo Weather API will be retired. 
+
+====
+
 This widget has resizable texts and weather icons.  
 The design of this widget is similar to Yawp widget.  
 
