@@ -1,7 +1,8 @@
 Yahoo! Weather Alternative Widget Skin 
 ====
 
-** WARNING **
+### WARNING ###
+
 As of Thursday, Jan. 3, 2019, the weather.yahooapis.com and query.yahooapis.com for Yahoo Weather API will be retired. 
 
 ====
